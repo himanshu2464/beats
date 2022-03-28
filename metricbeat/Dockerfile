@@ -1,4 +1,4 @@
-FROM golang:1.17.8
+FROM golang:golang:1.17-buster
 
 RUN \
     apt update \
